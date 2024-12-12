@@ -6,7 +6,7 @@
 - Worked in different projects involving Software Releases, Configuration Management, CI/CD, Devops, Cloud, SRE, etc.   
 - I am currently working in Oracle RACPACK MAA Solution Engineering team with Oracle India Pvt Ltd, Bangalore, India.   
 
-[![GitHub Profile](https://img.shields.io/badge/-saurabhuja-black?style=flat&logo=github&logoColor=white&link=https://github.com/saurabhuja)](https://github.com/saurabhuja)
+[![GitHub Profile](https://img.shields.io/badge/-s1saurabh-black?style=flat&logo=github&logoColor=white&link=https://github.com/s1saurabh)](https://github.com/s1saurabh)
 
 ### 🌱 Currently Learning
 - Golang
@@ -32,10 +32,10 @@
 For any inquiries, feel free to reach out via [email](mailto:sauraahu@gmail.com).  
 
 ## GitHub Contribution Chart
-Check out my recent contributions on [GitHub](https://github.com/saurabhuja).
+Check out my recent contributions on [GitHub](https://github.com/s1saurabh).
 
 ## Experience
-My Detailed Project experiences can be found here [![LinkedIn](https://img.shields.io/badge/-saurabhuja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saurabhuja)](https://linkedin.com/in/saurabhuja)
+My Detailed Project experiences can be found here [![LinkedIn](https://img.shields.io/badge/-s1saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/s1saurabh)](https://linkedin.com/in/s1saurabh)
 
 ## Education
 - B.E (Information Technology) from Punjab Engineering College, University of Technology, Chandigarh (2005-2009)
@@ -48,8 +48,8 @@ My Detailed Project experiences can be found here [![LinkedIn](https://img.shiel
 - Cloud Platforms: AWS, Oracle Cloud, Azure, Google Cloud
   
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhuja&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhuja&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s1saurabh&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s1saurabh&show_icons=true)
 
 ## What's Not Here
 
