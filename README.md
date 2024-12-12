@@ -46,10 +46,6 @@ My Detailed Project experiences can be found here [![LinkedIn](https://img.shiel
 - Operating Systems: Redhat & Oracle Linux, Windows Server
 - Databases: Oracle, MySQL, Redis DB, MS SQL Server
 - Cloud Platforms: AWS, Oracle Cloud, Azure, Google Cloud
-  
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s1saurabh&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s1saurabh&show_icons=true)
 
 ## What's Not Here
 
