@@ -29,7 +29,7 @@
 - Linux
 
 ## Connect with Me
-For any inquiries, feel free to reach out via [email](mailto:sauraahu@gmail.com).  
+For any inquiries, feel free to reach out via [email](mailto:s101saurabh@gmail.com).  
 
 ## GitHub Contribution Chart
 Check out my recent contributions on [GitHub](https://github.com/s1saurabh).
