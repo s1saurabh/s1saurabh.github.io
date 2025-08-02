@@ -43,6 +43,7 @@
 - Golang
 - Kubernetes Operator Development
 - Ansible Playbooks
+- Containers
 - Generative AI
 - REST API Development
 
@@ -82,11 +83,11 @@
 
 
 ## 🛠️ Skills
-- **Languages:** Shell, Python, Java, .NET, Groovy, C, GoLang, NodeJS
-- **DevOps Tools:** Jenkins, Ansible, Terraform, Docker, Kubernetes
-- **Operating Systems:** Redhat & Oracle Linux, Windows Server
-- **Databases:** Oracle, MySQL, Redis DB, MS SQL Server
-- **Cloud Platforms:** AWS, Oracle Cloud, Azure, Google Cloud
+- **Languages:** Go, Shell, Python, Java, Groovy, C, NodeJS
+- **DevOps Tools:** Teamcity, Jenkins, Ansible, Terraform, Docker, Kubernetes
+- **Operating Systems:** Ubuntu, Redhat & Oracle Linux, Windows Server
+- **Databases:** Oracle 23ai, Oracle RAC, MySQL, Redis DB, MS SQL Server
+- **Cloud Platforms:** Oracle Cloud, AWS, Azure, Google Cloud
 
 
 ---
