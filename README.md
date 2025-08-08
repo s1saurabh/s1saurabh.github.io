@@ -75,7 +75,7 @@
 - [oracle/docker-images](https://github.com/oracle/docker-images): Official Oracle Docker images
 - [oracle-database-operator](https://github.com/oracle/oracle-database-operator): Oracle Database Operator for Kubernetes
 - [db-sharding](https://github.com/oracle/db-sharding): Oracle Database Sharding
-- [quantd linux](https://github.com/quantdlinux/quantdlinux.github.io)): Hobby Linux development (Based on Debian 12)
+- [quantd linux](https://github.com/quantdlinux/quantdlinux.github.io): Hobby Linux development (Based on Debian 12)
 
 ## 🎓 Education
 - B.E (Information Technology) from Punjab Engineering College, University of Technology, Chandigarh (2005-2009)
