@@ -69,6 +69,7 @@
 
 
 ## 🏆 Featured Projects & Experience
+- [Oracle Database Operator](https://operatorhub.io/operator/oracle-database-operator)
 - My detailed project experiences can be found here [![LinkedIn](https://img.shields.io/badge/-s1saurabh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/s1saurabh)](https://linkedin.com/in/s1saurabh)
 
 ### 📂 Notable Repositories
