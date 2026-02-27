@@ -110,7 +110,27 @@ rather than high-visibility evangelism.
 - **oracle/db-sharding**  
   Oracle Database Sharding reference implementations  
   https://github.com/oracle/db-sharding
+---
 
+## 📚 Product Documentation & Technical Publications
+
+In addition to engineering and open-source work, I contribute to official Oracle
+product documentation and cloud architecture guidance.
+
+- **Oracle Real Application Clusters Installation Guide – Podman / Oracle Linux**  
+  Official Oracle Database documentation  
+  https://docs.oracle.com/en/database/oracle/oracle-database/26/racpd/oracle-real-application-clusters-installation-guide-podman-oracle-linux.pdf
+
+- **Installing and Configuring Oracle RAC on Oracle Linux Cloud Native Environment (OLCNE)**  
+  Oracle Database 19c documentation  
+  https://docs.oracle.com/en/database/oracle/oracle-database/19/rackb/install-configure-rac-olcne.html
+
+- **Deploying Oracle Kubernetes Engine (OKE) on Compute Cloud @ Customer / PCA**  
+  Oracle Cloud Infrastructure technical whitepaper  
+  https://www.oracle.com/a/ocom/docs/cloud/deploying-oke-on-compute-cloud@customer-or-pca.pdf
+
+My contributions focus on deployment architecture, lifecycle management,
+containerized database patterns, and operational reliability.
 ---
 
 ## 🎓 Education
